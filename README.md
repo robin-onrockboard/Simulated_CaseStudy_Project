@@ -156,5 +156,5 @@ Outputs:
 - `images/`: exported SVG charts
 
 ## Author
-Robinhood  
-Operations, Collection Analytics
+Robin Hu  
+Operation & Supply Chain Analyst
