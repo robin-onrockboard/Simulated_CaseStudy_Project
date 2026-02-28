@@ -11,7 +11,6 @@ Goal: test whether a higher-headcount, shorter-shift structure improves throughp
 
 ## Paper and Upload Guide
 - Full paper: `docs/PAPER_CASE_STUDY.md`
-- GitHub upload guide (CN): `docs/GITHUB_UPLOAD_GUIDE_CN.md`
 
 ## Background
 In high-volume operations, instability is often driven by timing mismatch between incoming demand and effective labor capacity, not only total headcount.
