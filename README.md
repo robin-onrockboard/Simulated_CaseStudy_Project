@@ -1,5 +1,19 @@
 # Workforce Reallocation Throughput Stability
 ## Operations Case Study
+> Simulated operations analytics case comparing `4 workers x 10h` vs `6 workers x 6-7h` for throughput stability, backlog control, and labor-cost efficiency.
+
+**Full Paper:** [PAPER_CASE_STUDY.md](docs/PAPER_CASE_STUDY.md)  
+**Chinese Upload Guide:** [GITHUB_UPLOAD_GUIDE_CN.md](docs/GITHUB_UPLOAD_GUIDE_CN.md)
+
+**Figure Navigation**
+- Figure 1: Hourly average incoming orders
+- Figure 2: Daily orders with peak marker
+- Figure 3: Staff Allocation Comparison (Incoming vs 4x10 Demand vs 6x6-7 Demand)
+
+**Quick Jump**
+- [Visual Outputs](#visual-outputs)
+- [Simulation Algorithm](#simulation-algorithm)
+- [Result Summary](#result-summary-from-generated-outputs)
 
 This repository is a simulated fulfillment-operations case study built to compare two staffing strategies under realistic constraints:
 
