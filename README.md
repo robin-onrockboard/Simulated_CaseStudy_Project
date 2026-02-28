@@ -3,7 +3,6 @@
 > Simulated operations analytics case comparing `4 workers x 10h` vs `6 workers x 6-7h` for throughput stability, backlog control, and labor-cost efficiency.
 
 **Full Paper:** [PAPER_CASE_STUDY.md](docs/PAPER_CASE_STUDY.md)  
-**Chinese Upload Guide:** [GITHUB_UPLOAD_GUIDE_CN.md](docs/GITHUB_UPLOAD_GUIDE_CN.md)
 
 **Figure Navigation**
 - Figure 1: Hourly average incoming orders
@@ -18,7 +17,6 @@
 > Simulated operations analytics case comparing `4 workers x 10h` vs `6 workers x 6-7h` for throughput stability, backlog control, and labor-cost efficiency.
 
 **Full Paper:** [PAPER_CASE_STUDY.md](docs/PAPER_CASE_STUDY.md)  
-**Chinese Upload Guide:** [GITHUB_UPLOAD_GUIDE_CN.md](docs/GITHUB_UPLOAD_GUIDE_CN.md)
 
 **Figure Navigation**
 - Figure 1: Hourly average incoming orders
